@@ -11,6 +11,7 @@
 .container {
   max-width: 1000px;
   margin: 0 auto;
+  padding: 1rem;
 }
 
 .heading {
@@ -77,7 +78,7 @@ article img {
 
 .tags {
   display: flex;
-  gap: 1.2rem;
+  gap: .8rem;
 }
 .tags > p {
   font-family: "Inter";
